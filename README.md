@@ -1,8 +1,9 @@
-# React + Vite
+# ContadorReact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Contador utilizando React y el hook de useState
 
-Currently, two official plugins are available:
+## Descripcion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Se utilizo ademas propTypes y defaultProps para poder integrar los componentes, a su vez se anidaron componentes como es el Title que respectivamente utilizo propTypes y defaultProps
+
+![Captura](https://github.com/user-attachments/assets/92d517fb-b427-4520-8373-63276b94a2f2)
