@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import HelloWorldApp from './Title';
-import FirstApp from './FirstApp';
 import './styles.css';
 import CounterApp from './CounterApp';
 
